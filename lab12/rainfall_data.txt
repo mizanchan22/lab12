@@ -1,0 +1,38 @@
+4
+4
+2421003
+Simpang Ampat
+Alor Gajah
+5.0
+0.0
+37.0
+3.0
+0.0
+1.0
+2322006
+Melaka Pindah
+Alor Gajah
+0.0
+0.0
+31.0
+3.0
+0.0
+0.5
+2321006
+Ladang Lendu
+Alor Gajah
+0.0
+0.0
+6.0
+1.0
+0.0
+0.0
+2222002
+Durian Tunggal
+Alor Gajah
+0.0
+1.5
+11.5
+7.0
+0.0
+0.0
